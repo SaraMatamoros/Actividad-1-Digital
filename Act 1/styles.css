@@ -1,0 +1,20 @@
+/* styles.css */
+h1 {
+    text-align: center;
+    color: rgb(138, 12, 12);
+   }
+h2{
+    text-align: left;
+    color: rgb(0, 0, 0);
+    background-color: rgb(0, 202, 192);
+}
+h3{ text-align: right;
+    color: rgb(0, 0, 0);
+    background-color: rgb(0, 202, 192);
+}
+p {
+    font-size: 16px;
+}
+body {
+    background-color: rgb(255, 235, 226);
+   }
